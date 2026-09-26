@@ -152,6 +152,11 @@ public class ConsolePizzaPresenter : IPizzaPresenter
 
     public void PresentWaitPrompt()
     {
+        if (Console.IsInputRedirected)
+        {
+            return;
+        }
+
         Console.ForegroundColor = ConsoleColor.DarkGray;
         Console.WriteLine("\nPresione cualquier tecla para continuar...");
         Console.ResetColor();
