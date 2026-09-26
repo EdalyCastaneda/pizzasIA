@@ -1,0 +1,44 @@
+[
+  {
+    "nombre": "Pizza Pepperoni Clásica",
+    "descripcion": "Salsa de tomate casera, queso mozzarella fundido y abundante pepperoni crujiente.",
+    "precio": 149.50,
+    "tamaño": "Grande",
+    "imagen": "https://hotpizza.com/images/pepperoni-clasica.jpg"
+  },
+  {
+    "nombre": "Pizza Cuatro Quesos",
+    "descripcion": "Exquisita combinación de mozzarella, gorgonzola, parmesano y gouda artesanal.",
+    "precio": 179.00,
+    "tamaño": "Familiar",
+    "imagen": "https://hotpizza.com/images/cuatro-quesos.jpg"
+  },
+  {
+    "nombre": "Pizza Hawaiana Especial",
+    "descripcion": "Jamón de pierna seleccionado, trozos frescos de piña caramelizada y queso extra.",
+    "precio": 139.00,
+    "tamaño": "Mediana",
+    "imagen": "https://hotpizza.com/images/hawaiana-especial.jpg"
+  },
+  {
+    "nombre": "Pizza Carnes Supremas",
+    "descripcion": "Pepperoni, salchicha italiana, jamón ahumado, tocino crujiente y carne de res.",
+    "precio": 199.99,
+    "tamaño": "Familiar",
+    "imagen": "https://hotpizza.com/images/carnes-supremas.jpg"
+  },
+  {
+    "nombre": "Pizza Vegetariana Gourmet",
+    "descripcion": "Pimientos asados, champiñones frescos, cebolla morada, aceitunas negras y albahaca.",
+    "precio": 145.00,
+    "tamaño": "Mediana",
+    "imagen": "https://hotpizza.com/images/vegetariana-gourmet.jpg"
+  },
+  {
+    "nombre": "Pizza Mexicana Picante",
+    "descripcion": "Chorizo artesanal, jalapeños en rodajas, frijoles refritos, cebolla y carne molida.",
+    "precio": 165.50,
+    "tamaño": "Grande",
+    "imagen": "https://hotpizza.com/images/mexicana-picante.jpg"
+  }
+]

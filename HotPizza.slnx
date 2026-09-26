@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/HotPizza.Application/HotPizza.Application.csproj" />
+    <Project Path="src/HotPizza.Domain/HotPizza.Domain.csproj" />
+    <Project Path="src/HotPizza.Infrastructure/HotPizza.Infrastructure.csproj" />
+    <Project Path="src/HotPizza.Presentation/HotPizza.Presentation.csproj" />
+    <Project Path="src/HotPizza/HotPizza.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/HotPizza.Tests/HotPizza.Tests.csproj" />
+  </Folder>
+</Solution>
